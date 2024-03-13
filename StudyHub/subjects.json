@@ -1,0 +1,385 @@
+{
+  "cse1": {
+    "Engineering Mathematics": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Mathematics-summer-2019",
+          "pdf": "M-1_pdfs/be-1-sem-applied-mathematics-1-3281-summer-2019.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Mathematics-summer-2018",
+          "pdf": "M-1_pdfs/be-1-sem-applied-mathematics-1-winter-2018.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Mathematics-winter-2016",
+          "pdf": "M-1_pdfs/be-1-sem-applied-mathematics-1-winter-2016.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Mathematics-winter-2015",
+          "pdf": "M-1_pdfs/be-1-sem-applied-mathematics-1-v2-2015.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Mathematics-winter-2014",
+          "pdf": "M-1_pdfs/be-1-sem-applied-mathematics-1-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Engineering Mathematics-Unit-1",
+          "description": "Important notes for Engineering Mathematics",
+          "pdf": "chemistry-sem-1/Notes-1st sem/6sem syllabus .pdf"
+        },
+        {
+          "key": 1,
+          "title": "Engineering Mathematics-Unit-2",
+          "description": "Important notes for Engineering Mathematics",
+          "pdf": "chemistry-sem-1/Notes-1st sem/6sem syllabus .pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Matrices 1",
+          "description": "What is a matrix?, How to calculate Determinants?, Types of Determinants, Minor & Cofactors, and Properties of Determinants",
+          "youtube": "https://www.youtube.com/watch?v=RtuNwdHDEAw&list=PLKS7ZMKnbPrT-Gy4k0r8jAr0mX2K32yyV",
+          "image": "chemistry-sem-1/Notes-1st sem/hqdefault.jpg"
+        },
+        {
+          "key": 2,
+          "heading": "Matrices Basic",
+          "description": "What is the basic formulas of the matrix?, How to calculate Determinants?, Types of Determinants, Minor & Cofactors, and Properties of Determinants.",
+          "youtube": "https://www.youtube.com/watch?v=5c5PsHWR_qo&list=PLNKD1qB9pptv5bt5v8EArZL4PxPWhh03EQ",
+          "image": "chemistry-sem-1/Notes-1st sem/hqdefault (1).jpg"
+        },
+        {
+          "key": 3,
+          "heading": "Rank Of Matrices",
+          "description": "What is a rank of matrix?, How to calculate rank of matrix, Minor & Cofactors, and Properties of Determinants.",
+          "youtube": "https://www.youtube.com/watch?v=4Augy2kdEUE&list=PLNKD1qB9pptuJlYVeM-wIETemi5iw_oRQ",
+          "image": "chemistry-sem-1/Notes-1st sem/hqdefault (2).jpg"
+        },
+        {
+          "key": 4,
+          "heading": "What is eigen values and eigen vectors?",
+          "description": "What is eigen values and eigen vectors?, how to calculate eigen values and eigen vectors.",
+          "youtube": "https://www.youtube.com/watch?v=apmSB7kmF38",
+          "image": "chemistry-sem-1/Notes-1st sem/mqdefault_6s.webp"
+        }
+      ]
+    },
+    "Engineering Physics": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Physics-summer-2019",
+          "pdf": "physics-1/be-1-sem-engineering-physics-3282-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Physics-summer-2018",
+          "pdf": "physics-1/be-1-sem-engineering-physics-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Physics-summer-2017",
+          "pdf": "physics-1/be-1-sem-engineering-physics-summer-2017.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Physics-summer-2016",
+          "pdf": "physics-1/be-1-sem-engineering-physics-v2-2016.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Physics-summer-2015",
+          "pdf": "physics-1/be-1-sem-engineering-physics-v2-2015.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Physics-summer-2014",
+          "pdf": "physics-1/be-1-sem-engineering-physics-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Physics CSE1 Notes",
+          "description": "Important notes for Engineering Physics",
+          "pdf": "https://example.com/physics_cse1_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Computer Networks 1",
+          "description": "What is a computer network?, Types of computer networks, Network topologies, OSI model",
+          "youtube": "https://www.youtube.com/watch?v=computer_networks_ece1",
+          "image": "d4.jpeg"
+        },
+        {
+          "key": 1,
+          "heading": "Introduction to Computer Networks 1",
+          "description": "What is a computer network?, Types of computer networks, Network topologies, OSI model",
+          "youtube": "https://www.youtube.com/watch?v=computer_networks_ece1",
+          "image": "d4.jpeg"
+        }
+      ]
+    },
+    "Engineering Chemistry": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Chemistry-summer-2019",
+          "pdf": "chemistry-sem-1/be-1-sem-engineering-chemistry-3283-summer-2019.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Chemistry-summer-2018",
+          "pdf": "chemistry-sem-1/be-1-sem-engineering-chemistry-summer-2018.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Chemistry-winter-2017",
+          "pdf": "chemistry-sem-1/be-1-sem-engineering-chemistry-winter-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Chemistry-summer-2016",
+          "pdf": "chemistry-sem-1/be-1-sem-engineering-chemistry-2016.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Chemistry-summer-2015",
+          "pdf": "chemistry-sem-1/be-1-sem-engineering-chemistry-2015.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Chemistry-summer-2014",
+          "pdf": "chemistry-sem-1/be-1-sem-engineering-chemistry-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Physics CSE1 Notes",
+          "description": "Important notes for Engineering Physics",
+          "pdf": "https://example.com/physics_cse1_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Computer Networks 1",
+          "description": "What is a computer network?, Types of computer networks, Network topologies, OSI model",
+          "youtube": "https://www.youtube.com/watch?v=computer_networks_ece1",
+          "image": "d9.png"
+        },
+        {
+          "key": 1,
+          "heading": "Introduction to Computer Networks 1",
+          "description": "What is a computer network?, Types of computer networks, Network topologies, OSI model",
+          "youtube": "https://www.youtube.com/watch?v=computer_networks_ece1",
+          "image": "d4.jpeg"
+        }
+      ]
+    },
+    "Engineering Graphics": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Graphics-summer-2019",
+          "pdf": "EG-sem-1/be-1-sem-engineering-graphics-1-3286-summer-2019.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Graphics-summer-2018",
+          "pdf": "EG-sem-1/be-1-sem-engineering-graphics-summer-2018.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Graphics-summar-2017",
+          "pdf": "EG-sem-1/be-1-sem-engineering-graphics-1-summer-2017.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Graphics-winter-2017",
+          "pdf": "EG-sem-1/be-1-sem-engineering-graphics-1-winter-2017.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Graphics-summer-2016",
+          "pdf": "EG-sem-1/be-1-sem-engineering-graphics-1-2016.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Graphics-summer-2015",
+          "pdf": "EG-sem-1/be-1-sem-engineering-graphics-1-2015.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Graphics-summer-2014",
+          "pdf": "EG-sem-1/be-1-sem-engineering-graphics-1-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Physics CSE1 Notes",
+          "description": "Important notes for Engineering Physics",
+          "pdf": "https://example.com/physics_cse1_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Computer Networks 1",
+          "description": "What is a computer network?, Types of computer networks, Network topologies, OSI model",
+          "youtube": "https://www.youtube.com/watch?v=computer_networks_ece1",
+          "image": "b7.webp"
+        },
+        {
+          "key": 1,
+          "heading": "Introduction to Computer Networks 1",
+          "description": "What is a computer network?, Types of computer networks, Network topologies, OSI model",
+          "youtube": "https://www.youtube.com/watch?v=computer_networks_ece1",
+          "image": "premium_photo-1685287730190-cddbced4834f.webp"
+        }
+      ]
+    }
+  },
+
+  "cse2": {
+    "Java Programming": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Introduction to Computer Networks 1",
+          "pdf": "https://example.com/physics_cse1_notes.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Introduction to Computer Networks 2",
+          "pdf": "https://example.com/physics_cse1_notes.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Java Programming CSE2 Notes",
+          "description": "Important notes for Java Programming",
+          "pdf": "https://example.com/java_cse2_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Computer Networks 1",
+          "description": "What is a computer network?, Types of computer networks, Network topologies, OSI model",
+          "youtube": "https://www.youtube.com/watch?v=computer_networks_ece1",
+          "image": "d4.jpeg"
+        }
+      ]
+    },
+    "Data Structure": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Introduction to Environmental Studies 1",
+          "pdf": "https://example.com/environmental_studies_ece1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Introduction to Environmental Studies 2",
+          "pdf": "https://example.com/environmental_studies_ece2.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Data Structure CSE2 Notes",
+          "description": "Important notes for Data Structure",
+          "pdf": "https://example.com/data_structure_cse2_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Environmental Studies 1",
+          "description": "Importance of environmental studies, Environmental pollution, Conservation of natural resources",
+          "youtube": "https://www.youtube.com/watch?v=environmental_studies_ece1",
+          "image": "d4.jpeg"
+        }
+      ]
+    }
+  },
+  "ece1": {
+    "Computer Networks": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Introduction to Matrices 1",
+          "pdf": "https://example.com/matrices_ece1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Introduction to Matrices 2",
+          "pdf": "https://example.com/matrices_ece2.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Computer Networks ECE1 Notes",
+          "description": "Important notes for Computer Networks",
+          "pdf": "https://example.com/computer_networks_ece1_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Matrices 1",
+          "description": "What is matrix?, How to calculate Determinants?, Types of Determinants, Minor & Cofactors, and Properties of Determinants",
+          "youtube": "https://www.youtube.com/watch?v=physics_cse1",
+          "image": "d4.jpeg"
+        }
+      ]
+    },
+    "Environmental Studies": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Introduction to Environmental Studies 1",
+          "pdf": "https://example.com/environmental_studies_ece1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Introduction to Environmental Studies 2",
+          "pdf": "https://example.com/environmental_studies_ece2.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Environmental Studies ECE1 Notes",
+          "description": "Important notes for Environmental Studies",
+          "pdf": "https://example.com/environmental_studies_ece1_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Matrices 1",
+          "description": "What is matrix?, How to calculate Determinants?, Types of Determinants, Minor & Cofactors, and Properties of Determinants",
+          "youtube": "https://www.youtube.com/watch?v=physics_cse1",
+          "image": "d4.jpeg"
+        }
+      ]
+    }
+  }
+}
